@@ -1,0 +1,9 @@
+/node_modules
+/vendor
+/.history
+/.idea
+/.vscode
+/.vagrant
+package-lock.json
+npm-debug.log
+yarn-error.log

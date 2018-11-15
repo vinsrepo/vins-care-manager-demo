@@ -1,0 +1,25 @@
+{
+  "name": "iotdapp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "babel-preset-es2015-node6": "^0.4.0",
+    "babel-register": "^6.26.0",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "ejs-locals": "^1.0.2",
+    "express": "~4.16.3",
+    "http-errors": "^1.6.3",
+    "mongoose": "5.0.16",
+    "morgan": "~1.9.0",
+    "nodemon": "^1.17.3",
+    "sqlite3": "^4.0.4"
+  },
+  "devDependencies": {}
+}
